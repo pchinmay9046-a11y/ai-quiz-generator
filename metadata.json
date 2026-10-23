@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge",
+  "description": "Interactive quiz creator and study tool with customizable topics, difficulty levels, rich explanations, and optional AI generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
